@@ -86,11 +86,11 @@ Educational healthcare support
 
 🔹 Description
 
-The system recommends hospitals located in Mysore based on disease type.
+The system recommends hospitals located in Kattankalathur based on disease type.
 
 🔹 Dataset Used
 
-mysore_hospitals.csv
+hospitals.csv
 Contains:
 
 Hospital name
@@ -105,7 +105,7 @@ Contact details
 
 Match predicted disease with hospital specialization
 
-Filter hospitals located in Mysore
+Filter hospitals located in Kattankulathur
 
 Display relevant hospitals to user
 
@@ -151,7 +151,7 @@ Helps users identify possible diseases early
 
 Provides safe home remedies
 
-Guides users to hospitals in Mysore
+Guides users to hospitals in Kattakulathur-Chennai region
 
 Demonstrates practical ML implementation
 
