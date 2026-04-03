@@ -8,7 +8,7 @@ The system predicts diseases based on user-selected symptoms and provides:
 
 🌿 Home Remedies Suggestions
 
-🏥 Hospital Recommendations (Mysore region)
+🏥 Hospital Recommendations (primarily based in chennai kattankalathur region)
 
 All recommendations are generated using structured CSV datasets.
 
